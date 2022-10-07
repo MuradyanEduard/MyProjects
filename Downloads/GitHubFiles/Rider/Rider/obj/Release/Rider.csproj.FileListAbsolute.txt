@@ -1,0 +1,17 @@
+E:\Eduard\ProjectVS\Rider\Rider\bin\Release\Rider.exe.config
+E:\Eduard\ProjectVS\Rider\Rider\bin\Release\Rider.exe
+E:\Eduard\ProjectVS\Rider\Rider\bin\Release\Rider.pdb
+E:\Eduard\ProjectVS\Rider\Rider\bin\Release\Interop.WMPLib.dll
+E:\Eduard\ProjectVS\Rider\Rider\bin\Release\AxInterop.WMPLib.dll
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Interop.WMPLib.dll
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\AxInterop.WMPLib.dll
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.csproj.ResolveComReference.cache
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.FightArena.resources
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.Form1.resources
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.ProductForm.resources
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.Properties.Resources.resources
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.StartMenu.resources
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.exe
+E:\Eduard\ProjectVS\Rider\Rider\obj\Release\Rider.pdb

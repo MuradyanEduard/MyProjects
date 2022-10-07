@@ -1,0 +1,10 @@
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\FrequencyAnalysis.exe.config
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\FrequencyAnalysis.exe
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\FrequencyAnalysis.pdb
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.csprojAssemblyReference.cache
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.Form1.resources
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.Properties.Resources.resources
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.exe
+E:\Eduard\ProjectVS\Xudaverdyan\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\FrequencyAnalysis.pdb
